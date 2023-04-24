@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='L02. Optional types'/>
+        <page name='L01. variables'/>
+        <page name='L03. Array'/>
+        <page name='L04.Dictionary'/>
+        <page name='L05. Set'/>
+        <page name='L06. If_guard_switch'/>
+        <page name='L07. Function'/>
+        <page name='L08. Turples-кортежи'/>
+        <page name='L09. Enum'/>
+        <page name='L10. Classes'/>
+        <page name='L11. Struct'/>
+        <page name='L12. Closures'/>
+        <page name='L13. Type casting, optional chaining'/>
+        <page name='L14. Properties'/>
+        <page name='L15. Protocols'/>
+        <page name='L16. Extensions'/>
+        <page name='L17. Access level'/>
+        <page name='L19. Date'/>
+        <page name='L20. Work with String'/>
+    </pages>
+</playground>
